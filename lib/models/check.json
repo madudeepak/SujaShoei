@@ -1,0 +1,23 @@
+{
+    "response_code": 1,
+    "response_data": {
+        "support_ticket": {
+            "am_sup_ticket_priority": 1,
+            "am_sup_ticket_asset_id": 72,
+            "images": [
+                "http: //localhost:8080/btecMaintenance/document_viewimage/suja/2",
+                "http://localhost:8080/btecMaintenance/document_viewimage/suja/3"
+            ],
+            "am_sup_ticket_date": "2023-11-07 00:00:00",
+            "am_sup_ticket_raised_by": 71,
+            "am_sup_ticket_problem_description": "good",
+            "am_sup_ticket_criticality": 1,
+            "am_sup_ticket_org_id": 1,
+            "am_sup_ticket_asset_condition": 1,
+            "am_sup_ticket_problem_id": 1,
+            "am_sup_ticket_dept_id": 0
+        }
+    },
+    "ws_req_id": 44995,
+    "response_msg": "Success"
+}
